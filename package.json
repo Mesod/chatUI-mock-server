@@ -1,0 +1,11 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "a simple server which just response with a JSON file of a simple chat. this server is made for an Android chat UI project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masood Adeli",
+  "license": "MIT"
+}
